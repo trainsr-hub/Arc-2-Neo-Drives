@@ -1,0 +1,13 @@
+streamlit
+pymongo
+dnspython
+streamlit
+Pillow
+requests
+streamlit-cropper
+numpy
+opencv-python-headless
+google-api-python-client
+google-auth
+PyYAML
+toml
